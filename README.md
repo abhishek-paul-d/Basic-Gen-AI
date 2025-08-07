@@ -1,6 +1,6 @@
 # GenAI Projects [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-310/) 
 
-This repository contains a collection of generative AI experiments and implementations using modern LLM frameworks and APIs. The focus is on building practical applications and experimenting with language model chaining, prompt engineering, and serving models via APIs and web interfaces.
+This repository contains a collection of basic generative AI experiments and implementations using modern LLM frameworks and APIs. The focus is on building practical applications and experimenting with language model chaining, prompt engineering, and serving models via APIs and web interfaces.
 
 ## Table of Contents
 - [Projects](#projects)
@@ -136,4 +136,5 @@ Experiments with language model chaining and prompt templates using [LangChain E
   - Gemma-2-9b-It (via Groq)
     - Used for language translation and processing
     - High-performance implementation
+
 
