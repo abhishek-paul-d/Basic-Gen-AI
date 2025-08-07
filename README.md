@@ -1,4 +1,4 @@
-# GenAI Projects [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-390/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/yourusername/GenAI-Projects/commits/master)
+# GenAI Projects [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-310/) 
 
 This repository contains a collection of generative AI experiments and implementations using modern LLM frameworks and APIs. The focus is on building practical applications and experimenting with language model chaining, prompt engineering, and serving models via APIs and web interfaces.
 
@@ -159,3 +159,4 @@ For questions, suggestions, or feedback, please reach out to:
 ## Acknowledgments
 - Inspired by the [LangChain](https://python.langchain.com/) community and their innovative approaches to language model applications.
 - Special thanks to the developers of [Streamlit](https://streamlit.io/) and [FastAPI](https://fastapi.tiangolo.com/) for their excellent frameworks.
+
